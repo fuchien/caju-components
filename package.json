@@ -1,6 +1,6 @@
 {
   "name": "caju-components",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -22,7 +22,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/fuchien/caju-components"
+    "url": "https://github.com/fuchien/caju-components"
   },
   "scripts": {
     "start": "react-scripts start",
