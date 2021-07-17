@@ -1,10 +1,10 @@
-type Props = {
-    label: string;
-    backgroundColor: string;
-    onClick: () => void;
-}
+// type Props = {
+//     label: string;
+//     backgroundColor: string;
+//     onClick: () => void;
+// }
 
-export default function Button({ label, backgroundColor, onClick }: Props) {
+export default function Button({ label, backgroundColor, onClick }) {
     return (
         <button onClick={onClick}
             style={backgroundColor && { backgroundColor }}>
